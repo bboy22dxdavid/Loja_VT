@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244124911673",
+    "firebase_url": "https://nilosmoda.firebaseio.com",
+    "project_id": "nilosmoda",
+    "storage_bucket": "nilosmoda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244124911673:android:048151aae6425d62e8e5e8",
+        "android_client_info": {
+          "package_name": "com.nillos_moda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244124911673-q3u0e51lpn4o4veom7sjiqoi4hgvj7cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nillos_moda",
+            "certificate_hash": "ba24ce1f2a443763adab6642cd88771bd04f187e"
+          }
+        },
+        {
+          "client_id": "244124911673-dn3ak6ruu72n1k278ohurpmi7502ed6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZ04Okewbjd-1qNu-CfSJw7FT_aEVcso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244124911673-dn3ak6ruu72n1k278ohurpmi7502ed6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
